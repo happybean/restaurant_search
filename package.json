@@ -1,0 +1,21 @@
+{
+  "name": "restaurant_search",
+  "version": "1.0.0",
+  "description": "A restaurant open time search site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "restaurant_search"
+  },
+  "keywords": [
+    "restaurant"
+  ],
+  "author": "Albert Shih",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
